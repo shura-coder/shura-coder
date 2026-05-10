@@ -41,7 +41,7 @@ Status: Building the future.
 ```yaml
 Name: YOUR_NAME
 Focus:
-  - Web Development
+  - Web Development 
   - Cyber Security
 
 Languages:
@@ -59,3 +59,10 @@ Languages:
 </div>
 
 ---
+
+<p align="center">
+  <img src="./photo_5190612975771917438_y (1).jpg" width="900"/>
+</p>
+
+```yaml 
+stand by shura
