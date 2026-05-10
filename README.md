@@ -8,6 +8,10 @@
 
 ---
 
+<p align="center">
+  <img src="./photo_5190612975771917437_x.jpg" width="500"/>
+</p>
+
 <img src="./assets/banner.gif" width="500"/>
 
 # ⚡ SHURA SYSTEM ONLINE ⚡
@@ -25,6 +29,10 @@
 Status: Building the future.
 ```
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shura-coder&theme=tokyonight&hide_border=true&background=00000000" />
+</p>
+
 # 🪶 About Me
 
 ```yaml
@@ -36,3 +44,9 @@ Focus:
 Languages:
   - Pythoт
   - HTML / CSS
+
+```
+
+```txt
+.github/workflows/snake.yml
+
