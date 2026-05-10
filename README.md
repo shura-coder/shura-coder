@@ -51,6 +51,6 @@ Languages:
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shura-coder/shura-coder/output/snake-purple.svg" />
+  <img src="https://raw.githubusercontent.com/shura-coder/shura-coder/output/snake-purple.gif" />
 </p>
 
