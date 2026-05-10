@@ -1,9 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8B0000,50:FF4500,100:FFD700&text=Itz_shura&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:6a0dad,100:b026ff&text=Itz_shura&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=850&lines=Initializing+system...;Loading+ram+disk+sdb%2Fshura%2F...;Injecting+neural+networks...;Access+Granted.;WELCOME+TO+ARCHLINUX+%F0%9F%97%BC" />
+
+
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&width=850&lines=Initializing+system...;Loading+ram+disk+sdb%2Fshura%2F...;Injecting+neural+networks...;Access+Granted.;WELCOME+TO+ARCHLINUX+%F0%9F%97%BC" />
 </p>
 
 ---
