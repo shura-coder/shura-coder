@@ -1,12 +1,25 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B2CFF&height=220&section=header&text=WELCOME%20TO%20MY%20DIGITAL%20REALM&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8B0000,50:FF4500,100:FFD700&text=Itz_shura&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Initializing+system...;Loading+AI+modules...;Injecting+neural+networks...;Access+Granted."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=850&lines=Initializing+system...;Loading+ram+disk+sdb%2Fshura%2F...;Injecting+neural+networks...;Access+Granted.;WELCOME+TO+ARCHLINUX+%F0%9F%97%BC" />
 </p>
 
 ---
+
+<img src="./assets/banner.gif" width="500"/>
+
+# ⚡ SHURA SYSTEM ONLINE ⚡
+
+```bash
+> Initializing system...
+> Loading ram disk sdb/shura/...
+> Injecting neural networks...
+> Access Granted.
+> WELCOME TO ARCHLINUX🗼
+```
+</div>
 
 ```yaml
 Status: Building the future.
