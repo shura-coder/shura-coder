@@ -39,7 +39,7 @@ Status: Building the future.
 # 🪶 About Me
 
 ```yaml
-Name: YOUR_NAME
+Name: shura-coder-source
 Focus:
   - Web Development 
   - Cyber Security
