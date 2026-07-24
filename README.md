@@ -45,8 +45,10 @@ Focus:
   - Cyber Security
 
 Languages:
-  - Pythoт
+  - Python
   - HTML / CSS
+  - javascript
+  - json
 
 ```
 
